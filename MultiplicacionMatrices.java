@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
  *
  * @author dania
  */
-public class MultiplicaciónMatrices {
+public class MultiplicacionMatrices {
 
     public static BufferedReader bufer = new BufferedReader(new InputStreamReader(System.in));
     public static String entrada;
